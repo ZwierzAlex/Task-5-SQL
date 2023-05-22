@@ -4,7 +4,7 @@ Jak zawsze powtarzał nasz szkoleniowiec: SELECT (gwiazdka) FROM tabela będzies
 
 # Subtask 3
 1.  Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname 
-2. {color: blue; → SELECT * FROM actors ORDER BY surname; }
+2. -- → SELECT * FROM actors ORDER BY surname;--
 3.  Wyświetl film, który powstał w 2019 roku 
 4.  → SELECT * FROM movies WHERE (year_of_production) = 2019; 
 5.  Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem 
