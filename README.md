@@ -1,6 +1,6 @@
 # Subtask 1
-Szczerze mówiąc nie ogładałam tego szkolenia, ponieważ wcześniej już przechodziłam miniszkolenie z SQL :grinning: jestem trochę "rusty", ale ogólnie w miarę dobrze się czuję w stosowaniu operatorów typu: AND, IN, BETWEEN, LIKE, OR, WHERE itd. 
-Jak zawsze powtarzał nasz szkoleniowiec: ***SELECT (gwiazdka) FROM tabela będziesz mistrzem sqla ;)***
+Szczerze mówiąc nie ogładałam tego szkolenia, ponieważ wcześniej już przechodziłam miniszkolenie z SQL :grinning: jestem trochę "rusty", ale ogólnie w miarę dobrze się czuję w stosowaniu operatorów typu: AND, IN, BETWEEN, LIKE, OR, WHERE itd. <br>
+Jak zawsze powtarzał nasz szkoleniowiec: ***SELECT (gwiazdka) FROM tabela będziesz mistrzem sqla :rofl:***
 
 # Subtask 3
 1.  *Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname* 
