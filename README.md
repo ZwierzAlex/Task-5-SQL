@@ -2,7 +2,7 @@
 Szczerze mówiąc nie ogładałam tego szkolenia, ponieważ wcześniej już przechodziłam szkolenie z SQL, tym samym jestem trochę "rusty" ale ogólnie w miarę dobrze się czuję w stosowaniu operatorów typu: AND, IN, BETWEEN, LIKE, OR itd. Jak zawsze powtarzał nasz szkoleniowiec: SELECT (gwiazdka) FROM tabela będziesz mistrzem sqla ;)
 
 # Subtask 3
-1.  Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname → <style="color: blue;">SELECT * FROM actors ORDER BY surname;
+1.  Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname → SELECT * FROM actors ORDER BY surname;
 2.  Wyświetl film, który powstał w 2019 roku → SELECT * FROM movies WHERE (year_of_production) = 2019; 
 3.  Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem → SELECT * FROM movies WHERE (year_of_production) BETWEEN 1900 AND 1999;
 4.  Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$ → SELECT title, price FROM movies WHERE price < 7;
